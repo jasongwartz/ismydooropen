@@ -1,0 +1,6 @@
+github.com/gregdel/pushover v0.0.0-20180208231006-1e03358b8e7e h1:InUqbygFzzdNpgu2R2lsL5rY1NfrPuZsaOTIQfSru30=
+github.com/gregdel/pushover v0.0.0-20180208231006-1e03358b8e7e/go.mod h1:NbuXd8Iwy5dU99qFToB8mSE29qJOQNW/bphiV8CWj/k=
+github.com/warthog618/gpio v0.2.0 h1:ycZ82b+2mMbiN55GqqfIo6AHgJWDUsrfLF+/Yjk0WZM=
+github.com/warthog618/gpio v0.2.0/go.mod h1:VoWFcV+IlTg/ksPFSinzM4Ol5U322A+MO557i6/e2W0=
+golang.org/x/sys v0.0.0-20190129075346-302c3dd5f1cc h1:WiYx1rIFmx8c0mXAFtv5D/mHyKe1+jmuP7PViuwqwuQ=
+golang.org/x/sys v0.0.0-20190129075346-302c3dd5f1cc/go.mod h1:STP8DvDyc/dI5b8T5hshtkjS+E42TnysNCUPdjciGhY=
